@@ -12,5 +12,4 @@ Controls:
 - Escape key to exit the game
 Compile and Run:
 To compile and run the game, simply run the command gcc car_game.c -o car_game followed by ./car_game in your terminal.
-Note:
-This game is a basic implementation and can be improved in various ways, such as adding more levels, increasing the speed of the enemies, or implementing more complex gameplay mechanics.
+
