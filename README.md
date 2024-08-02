@@ -1,4 +1,4 @@
-# Car-Game-C++
+# Car-Game-C
 A simple console-based car game written in C.
 Objective:
 Avoid colliding with enemies (represented by ) by moving your car (represented by) left or right using the arrow keys or 'A' and 'D' keys.
